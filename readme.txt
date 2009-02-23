@@ -11,7 +11,7 @@ Adds Raven SEO Tools Analytics Javascript to wp-footer via admin, works in MU.
 
 Raven Analytics is a statistics service provided by Raven SEO Tools. This plugin simplifies the process of including the Raven Analytics code in your blog, so you don’t have to edit any PHP. If you don’t have a Raven SEO account yet, you can get one at raven-seo-tools.com.
 
-In the Raven interface, when you are in the account that corresponds to your blog, click on ANALYTICS > Settings. All you need is the 8-letter/number code similar to this: {_raven._init(”00000000″)}. Enter that 8-letter/number code in the box below.
+In the Raven interface, when you are in the account that corresponds to your blog, click on ANALYTICS > Settings. All you need is the 8-letter/number code similar to this: {_raven._init('00000000')}. Enter that 8-letter/number code in the box below.
 
 Once you have entered your User Account String in the box below your pages will be trackable by Raven Analytics.
 
